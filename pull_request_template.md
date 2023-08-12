@@ -1,8 +1,11 @@
-[Please switch to **Preview** and select one of the following links:
+## Issue
 
-* [Feature](?template=with-issue.md)
-* [Bug](?template=without-issue.md)
-
-Once switched to the correct template, you can save the link as a bookmark. Keep in mind that switching templates will remove all already entered data within this issue.
-](https://github.com/user/repo/compare/main...branch?template=bug_fix_template.md
-)https://github.com/user/repo/compare/main...branch?template=bug_fix_template.md
+## Checklists
+- [ ] One of the followings is handled
+  - At least one or more issue is linked to this PR
+  - [The issue template](https://github.com/ajktown/.github/blob/main/issue_template.md) has been replaced to the [issue](#issue) above, if no issue is related to this PR
+- [ ] Assignee is set
+- [ ] Labels are set
+- [ ] `yarn inspect` is run
+- [ ] Operation Check is done
+- [ ] `TODOs` of associated issue (or TODOs here, if present) are handled and checked
