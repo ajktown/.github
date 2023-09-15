@@ -1,7 +1,7 @@
 ## Related PRs
 - _None_
 
-## Checklists
+## Checklist (Developers)
 - [ ] One of the followings is handled
   - At least one or more issue are linked to this PR under `development`
   - [The issue template](https://github.com/ajktown/.github/blob/main/issue_template.md) is directly copied above the `Related PRs`
@@ -12,3 +12,6 @@
 - [ ] `yarn inspect` is run
 - [ ] Operation Check is done
 - [ ] `TODOs` of associated issue (or TODOs here, if present) are handled and checked
+
+## Checklist (Reviewers)
+- [ ] Every item on the checklist has been addressed accordingly
