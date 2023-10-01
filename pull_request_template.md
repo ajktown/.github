@@ -2,10 +2,11 @@
 - _None_
 
 ## Checklist (Developers)
+- [ ] `Related PRs` is correctly modified, if it is not `None`
 - [ ] One of the followings is handled
   - At least one or more issue are linked to this PR under `development`
   - [The issue template](https://github.com/ajktown/.github/blob/main/issue_template.md) is directly copied above the `Related PRs`
-- [ ] `Related PRs` is correctly modified, if it is not `None`
+  - One of the related PRs is linked to the issue under `development`
 - [ ] Assignee is set
 - [ ] Labels are set
 - [ ] Title is checked
