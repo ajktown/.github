@@ -12,8 +12,8 @@
 - [ ] Labels are set
 - [ ] Title is checked
 - [ ] `yarn inspect` is run
-- [ ] Operation Check is done
 - [ ] `TODOs` of associated issue (or TODOs here, if present) are handled and checked
+- [ ] Final Operation Check is done
 
 ## Checklist (Reviewers)
 - [ ] Check if there are any other missing TODOs that are not yet listed
