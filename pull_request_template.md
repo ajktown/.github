@@ -1,20 +1,25 @@
+# Background
+TODO: Write the background. If you have an issue related to it, you can simply put the URL
+
+## TODOs
+- [ ] TODO: Write your TODOs.
+- [ ] TODO: If your issue has TODOs, please copy appropriate ones here.
+
 ## Related PRs
 - _None_
 
 ## Checklist (Developers)
+- [ ] Title is checked
+- [ ] Background & TODOs are filled
 - [ ] `Related PRs` is correctly modified, if it is not `None`
-- [ ] One of the followings is handled
-  - At least one or more issue are linked to this PR under `development`
-  - [The issue template](https://github.com/ajktown/.github/blob/main/issue_template.md) is directly copied above the `Related PRs`
-    - You can directly copy background with issue from the samed/different repository.
-  - One of the related PRs is linked to the issue under `development`
 - [ ] Assignee is set
 - [ ] Labels are set
-- [ ] Title is checked
+- [ ] Appropriate issue(s) is(are) linked to this PR under `development`
 - [ ] `yarn inspect` is run
-- [ ] `TODOs` of associated issue (or TODOs here, if present) are handled and checked
+- [ ] `TODOs` are handled and checked
 - [ ] Final Operation Check is done
 
 ## Checklist (Reviewers)
 - [ ] Check if there are any other missing TODOs that are not yet listed
+- [ ] Review Code
 - [ ] Every item on the checklist has been addressed accordingly
