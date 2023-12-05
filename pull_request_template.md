@@ -23,3 +23,4 @@ TODO: Write the background. If you have an issue related to it, you can simply p
 - [ ] Check if there are any other missing TODOs that are not yet listed
 - [ ] Review Code
 - [ ] Every item on the checklist has been addressed accordingly
+- [ ] If `development` is associated to this PR, you must check if every TODOs are handled
