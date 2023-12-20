@@ -9,6 +9,7 @@ TODO: Write the background. If you have an issue related to it, you can simply p
 - _None_
 
 ## Checklist (Developers)
+- [ ] Make the PR as the draft
 - [ ] Title is checked
 - [ ] Background & TODOs are filled
 - [ ] `Related PRs` is correctly modified, if it is not `None`
