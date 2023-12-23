@@ -5,9 +5,6 @@ TODO: Write the background. If you have an issue related to it, you can simply p
 - [ ] TODO: Write your TODOs.
 - [ ] TODO: If your issue has TODOs, please copy appropriate ones here.
 
-## Related PRs
-- _None_
-
 ## Checklist (Developers)
 - [ ] Make this PR as a draft first
 - [ ] Title is checked
