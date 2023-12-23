@@ -9,16 +9,17 @@ TODO: Write the background. If you have an issue related to it, you can simply p
 - _None_
 
 ## Checklist (Developers)
-- [ ] Make the PR as the draft
+- [ ] Make this PR as a draft first
 - [ ] Title is checked
 - [ ] Background & TODOs are filled
-- [ ] `Related PRs` is correctly modified, if it is not `None`
 - [ ] Assignee is set
 - [ ] Labels are set
+- [ ] Project is created & linked, if multiple PRs are associated to this PR
 - [ ] Appropriate issue(s) is(are) linked to this PR under `development`
 - [ ] `yarn inspect` is run
 - [ ] `TODOs` are handled and checked
 - [ ] Final Operation Check is done
+- [ ] Make this PR as an open PR
 
 ## Checklist (Reviewers)
 - [ ] Check if there are any other missing TODOs that are not yet listed
