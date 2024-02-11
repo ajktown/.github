@@ -6,13 +6,14 @@ TODO: Write the background. If you have an issue related to it, you can simply p
 - [ ] TODO: If your issue has TODOs, please copy appropriate ones here.
 
 ## Checklist (Developers)
-- [ ] Make this PR as a draft first
-- [ ] Title is checked
-- [ ] Background & TODOs are filled
-- [ ] Assignee is set
-- [ ] Labels are set
-- [ ] Project is created & linked, if multiple PRs are associated to this PR
-- [ ] Appropriate issue(s) is(are) linked to this PR under `development`
+- [ ] `Draft` is set for this PR
+- [ ] `Title` is checked
+- [ ] `Background` is filled
+- [ ] `TODOs` are filled
+- [ ] `Assignee` is set
+- [ ] `Labels` are set
+- [ ] `Project` is created & linked, if multiple PRs are associated to this PR
+- [ ] `development` is linked if related issue exists
 - [ ] `yarn inspect` is run
 - [ ] `TODOs` are handled and checked
 - [ ] Final Operation Check is done
