@@ -12,7 +12,6 @@ TODO: Write the background. If you have an issue related to it, you can simply p
 - [ ] `TODOs` are filled
 - [ ] `Assignee` is set
 - [ ] `Labels` are set
-- [ ] `Project` is created & linked, if multiple PRs are associated to this PR
 - [ ] `development` is linked if related issue exists
 - [ ] `yarn inspect` is run
 - [ ] `TODOs` are handled and checked
