@@ -5,18 +5,22 @@ TODO: Write the background. If you have an issue related to it, you can simply p
 - [ ] TODO: Write your TODOs.
 - [ ] TODO: If your issue has TODOs, please copy appropriate ones here.
 
-## Checklist (Developers)
-- [ ] `Draft` is set for this PR
-- [ ] `Title` is checked
-- [ ] `Background` is filled
-- [ ] `TODOs` are filled
-- [ ] `Assignee` is set
-- [ ] `Labels` are set
-- [ ] `development` is linked if related issue exists
-- [ ] `yarn inspect` is run
-- [ ] `TODOs` are handled and checked
-- [ ] Final Operation Check is done
-- [ ] Make this PR as an open PR
+## Checklist Before PR Review
+- [ ] The following has been handled:
+  -  `Draft` is set for this PR
+  - `Title` is checked
+  - `Background` is filled
+  - `TODOs` are filled
+  - `Assignee` is set
+  - `Labels` are set
+  - `development` is linked if related issue exists
+
+## Checklist (Right Before PR Review Request)
+- [ ] The following has been handled:
+  - `yarn inspect` is run
+  - `TODOs` are handled and checked
+  - Final Operation Check is done
+  - Make this PR as an open PR
 
 ## Checklist (Reviewers)
 - [ ] Check if there are any other missing TODOs that are not yet listed
