@@ -1,16 +1,11 @@
 # Background
-TODO: Write the background. If you have an issue related to it, you can simply put the URL
-
-## TODOs
-- [ ] TODO: Write your TODOs.
-- [ ] TODO: If your issue has TODOs, please copy appropriate ones here.
+TODO: Write the background. Why did you made such a PR? If you have an issue related to it, you can simply put the URL
 
 ## Checklist Before PR Review
 - [ ] The following has been handled:
   -  `Draft` is set for this PR
   - `Title` is checked
   - `Background` is filled
-  - `TODOs` are filled
   - `Assignee` is set
   - `Labels` are set
   - `development` is linked if related issue exists
