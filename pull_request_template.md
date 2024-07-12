@@ -12,7 +12,6 @@ TODO: Write the background. Why did you made such a PR? If you have an issue rel
 
 ## Checklist (Right Before PR Review Request)
 - [ ] The following has been handled:
-  - `yarn inspect` is run
   - `TODOs` are handled and checked
   - Final Operation Check is done
   - Make this PR as an open PR
@@ -22,3 +21,5 @@ TODO: Write the background. Why did you made such a PR? If you have an issue rel
 - [ ] Review Code
 - [ ] Every item on the checklist has been addressed accordingly
 - [ ] If `development` is associated to this PR, you must check if every TODOs are handled
+
+
