@@ -12,7 +12,6 @@ TODO: Write the background. Why did you made such a PR? If you have an issue rel
 
 ## Checklist (Right Before PR Review Request)
 - [ ] The following has been handled:
-  - `TODOs` are handled and checked
   - Final Operation Check is done
   - Make this PR as an open PR
 
