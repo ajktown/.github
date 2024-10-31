@@ -13,6 +13,7 @@ TODO: Write the background. Why did you made such a PR? If you have an issue rel
 ## Checklist (Right Before PR Review Request)
 - [ ] The following has been handled:
   - Final Operation Check is done
+  - Mobile View Operation Check is done
   - Make this PR as an open PR
 
 ## Checklist (Reviewers)
