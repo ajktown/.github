@@ -1,8 +1,11 @@
 # Background
-TODO: Write the background. Why did you made such a PR? If you have an issue related to it, you can simply put the URL
+TODO: Write the background. Why did you made such a PR?
+
+TODO: If you have an issue related to it, please post a screenshot of the issue & leave a link (Example: https://github.com/ajktown/ConsistencyGPT/pull/72)
 
 ## What's done
 TODO: Write what's done here.
+
 TODO: before you ask reviews for PR, please check yourself if `What's done` and actual changes are the same.
 
 ## Checklist Before PR Review
