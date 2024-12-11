@@ -8,6 +8,10 @@ TODO: Write what's done here.
 
 TODO: before you ask reviews for PR, please check yourself if `What's done` and actual changes are the same.
 
+## What are the related PRs?
+- TODO: Write links for any related PRs
+- TODO: If you think you have none, you may write `N/A`
+
 ## Checklist Before PR Review
 - [ ] The following has been handled:
   - `Draft` is set for this PR
