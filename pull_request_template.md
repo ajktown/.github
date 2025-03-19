@@ -14,6 +14,7 @@ TODO: before you ask reviews for PR, please check yourself if `What's done` and 
 
 ## What's next?
 - TODO: What is the next things to do after this PR is merged?
+  - TODO: Not sure how to do it? Use the following PR as a reference: https://github.com/ajktown/docs/pull/115
 - TODO: If you think you have none, you can simply leave `None` or `N/A`
 
 ## Checklist Before PR Review
