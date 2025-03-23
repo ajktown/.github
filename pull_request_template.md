@@ -35,6 +35,7 @@ TODO: before you ask reviews for PR, please check yourself if `What's done` and 
   - Mobile View Operation Check is done, if frontend related
   - Make this PR as an open PR
   - Double-check `What's done?` matches to the actual changes
+  - Appropriate ajktown/docs sync pr done if needed
 
 ## Checklist (Reviewers)
 - [ ] Review if the following has been handled:
